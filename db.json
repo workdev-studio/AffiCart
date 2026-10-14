@@ -1,0 +1,47 @@
+{
+  "categories": [
+    { "id": "all", "name": "All Categories" },
+    { "id": "electronics", "name": "Electronics" },
+    { "id": "clothing", "name": "Clothing" },
+    { "id": "footwear", "name": "Footwear" },
+    { "id": "groceries", "name": "Groceries" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Earbuds",
+      "category": "electronics",
+      "company": "Amazon",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400",
+      "affiliateLink": "https://www.amazon.in"
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Watch",
+      "category": "electronics",
+      "company": "Flipkart",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+      "affiliateLink": "https://www.flipkart.com"
+    },
+    {
+      "id": 3,
+      "name": "Casual Cotton T-Shirt",
+      "category": "clothing",
+      "company": "Nike",
+      "price": 699,
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=400",
+      "affiliateLink": "https://www.nike.com"
+    },
+    {
+      "id": 4,
+      "name": "Running Sports Shoes",
+      "category": "footwear",
+      "company": "Puma",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+      "affiliateLink": "https://www.flipkart.com"
+    }
+  ]
+}
